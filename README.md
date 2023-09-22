@@ -1,4 +1,5 @@
 # NetworkingKeyTerminology
+![Misha](/videoplayback-_online-video-cutter.com_.gif)
 ## The key terminology is the rough alphabet we need to know
 ## Recommend that you review this list from time to time and expand it as you learn new protocols
 | **Protocol**                        | **Acronym**                           | ***Description***                   |
